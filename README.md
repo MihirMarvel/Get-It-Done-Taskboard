@@ -16,8 +16,6 @@ It allows users to **create**, **edit**, **delete**, **mark tasks as done**, and
 
 ---
 
-**Downloadable Apk :-** [..\GetItDone\app\build\outputs\apk\debug ]
-
 ## 🧱 Architecture Overview
 
 This project follows **MVVM + Clean Architecture** principles, divided into modular layers:
