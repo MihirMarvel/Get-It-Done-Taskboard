@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GetItDone</string>
+    <string name="no_tasks_yet_tap_to_add">No tasks yet. Tap + to add.</string>
+    <string name="add">Add</string>
+    <string name="get_it_done">Get It Done</string>
+    <string name="sync">Sync</string>
+    <string name="delete">Delete</string>
+    <string name="new_task">New Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="title">Title*</string>
+    <string name="description">Description</string>
+    <string name="title_cannot_be_empty">Title cannot be empty</string>
+    <string name="failed_to_save">Failed to save</string>
+    <string name="task_not_found">Task not found</string>
+    <string name="failed_to_toggle">Failed to toggle</string>
+    <string name="failed_to_delete">Failed to delete</string>
+    <string name="sync_failed">Sync failed</string>
+    <string name="save">Save</string>
+    <string name="add_more_details_about_the_task">Add more details about the task...</string>
+    <string name="enter_task_title">Enter task title...</string>
+</resources>
